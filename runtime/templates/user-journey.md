@@ -1,19 +1,59 @@
-# User Journey Template
+# User Journey
 
-**Status:** Placeholder skeleton
+**Version:** 0.1  
+**Status:** draft  
+**Upstream:** requirements.md, brief.md  
+**Assumptions:** none  
+**Open questions:** (list)
 
-## Header (required)
+---
 
-- Version:
-- Status: draft | in-review | approved
-- Upstream links:
-- Assumptions:
-- Open questions:
+## 1. Personas
 
-## Body
+| Persona | Goals | Key characteristics | Source |
+|---------|-------|---------------------|--------|
+| …       | …     | …                   | …      |
 
-(Content specific to User Journey goes here.)
+## 2. Primary Journeys
+
+### Journey J-01 — <name>
+
+- **Trigger:**  
+- **Steps:**
+  1. …
+  2. …
+- **Success criteria:**  
+- **Related requirements:** FR-…, NFR-…
+
+### Journey J-02 — <name>
+
+- …
+
+## 3. Edge Cases & Error Paths
+
+### Edge E-01 — <name>
+
+- **Trigger / condition:**  
+- **Steps / recovery:**  
+- **Related requirements:**  
+
+## 4. Pain Points & Cognitive Load Notes
+
+- …
+
+## 5. Open Questions
+
+| ID  | Question | Blocking? | Related journey |
+|-----|----------|-----------|-----------------|
+| Q1  | …        | yes/no    | …               |
+
+---
 
 ## Traceability
 
-Every statement must link to an upstream source or be marked as an inference pending confirmation.
+Every journey → requirement(s).
+
+| Journey / Edge | Requirement ID(s) | Notes |
+|----------------|-------------------|-------|
+| J-01           | FR-01, …          | …     |
+| E-01           | …                 | …     |

@@ -1,19 +1,50 @@
-# Project Brief Template
+# Project Brief
 
-**Status:** Placeholder skeleton
+**Version:** 0.1  
+**Status:** draft  
+**Upstream:** intake.md  
+**Assumptions:** none  
+**Open questions:** (list; mark blocking ones)
 
-## Header (required)
+---
 
-- Version:
-- Status: draft | in-review | approved
-- Upstream links:
-- Assumptions:
-- Open questions:
+## 1. Problem Statement
 
-## Body
+(Exact or lightly edited wording from Intake; cite source)
 
-(Content specific to Project Brief goes here.)
+## 2. Goals
+
+- Goal … (source)
+
+## 3. Non-Goals / Out of Scope
+
+- …
+
+## 4. Constraints
+
+- Technical, business, regulatory, timeline, budget, etc.
+
+## 5. Success Metrics
+
+- Measurable criteria for “done”
+
+## 6. Stakeholders & Personas (high-level)
+
+- Only what is present in Intake
+
+## 7. Open Questions
+
+| ID  | Question | Blocking? | Source |
+|-----|----------|-----------|--------|
+| Q1  | …        | yes/no    | …      |
+
+---
 
 ## Traceability
 
-Every statement must link to an upstream source or be marked as an inference pending confirmation.
+Every statement links to Intake or is marked inference.
+
+| Statement / Section | Source                  | Notes                          |
+|---------------------|-------------------------|--------------------------------|
+| §1 Problem Statement | intake.md §2            | …                              |
+| …                   | …                       | …                              |

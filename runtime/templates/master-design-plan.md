@@ -1,19 +1,48 @@
-# Master Design Plan Template
+# Master Design Plan
 
-**Status:** Placeholder skeleton
+**Version:** 1.0  
+**Status:** approved  
+**Upstream:** brief.md, requirements.md, architecture.md, journeys.md, visual.md, implementation.md, audit.md  
+**Assumptions:** none  
+**Open questions:** (should be empty or non-blocking)
 
-## Header (required)
+---
 
-- Version:
-- Status: draft | in-review | approved
-- Upstream links:
-- Assumptions:
-- Open questions:
+## Package Contents
 
-## Body
+- Links to every approved upstream artifact
+  - [brief.md](../brief.md)
+  - [requirements.md](../requirements.md)
+  - [architecture.md](../architecture.md)
+  - [journeys.md](../journeys.md)
+  - [visual.md](../visual.md)
+  - [implementation.md](../implementation.md)
+  - [audit.md](../audit.md)
+- Summary of gate results (all PASS or accepted residual risk)
+- Residual risks that were accepted
 
-(Content specific to Master Design Plan goes here. This is the single approved package.)
+## Gate Results Summary
+
+| Gate                    | Result | Notes |
+|-------------------------|--------|-------|
+| Functional Correctness  | PASS   | …     |
+| Performance             | PASS   | …     |
+| Accessibility           | PASS   | …     |
+| Responsive Design       | PASS   | …     |
+| Security                | PASS   | …     |
+| Privacy                 | PASS   | …     |
+| UX                      | PASS   | …     |
+| UI                      | PASS   | …     |
+| Maintainability         | PASS   | …     |
+| Testability             | PASS   | …     |
+| SEO (if applicable)     | PASS / N/A | …  |
+
+## Accepted Residual Risks
+
+(If any; otherwise “none”)
+
+---
 
 ## Traceability
 
-Every statement must link to an upstream source or be marked as an inference pending confirmation.
+Complete. Every element of the package is traceable to upstream artifacts and has passed the quality gates (or carries an explicit, human-accepted residual-risk record).
