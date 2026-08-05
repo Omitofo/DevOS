@@ -1,15 +1,20 @@
 # knowledge/patterns/ — Index
 
-| File | Status |
-|------|--------|
-| [README.md](README.md) | Placeholder |
-| [authentication.md](authentication.md) | Placeholder |
-| [authorization.md](authorization.md) | Placeholder |
-| [api-design.md](api-design.md) | Placeholder |
-| [caching.md](caching.md) | Placeholder |
-| [forms.md](forms.md) | Placeholder |
-| [file-uploads.md](file-uploads.md) | Placeholder |
-| [real-time.md](real-time.md) | Placeholder |
-| [search.md](search.md) | Placeholder |
-| [payments.md](payments.md) | Placeholder |
-| [multi-tenancy.md](multi-tenancy.md) | Placeholder |
+**Status:** Active  
+**Last review:** 2026-08-05
+
+| File | Status | Primary consumers |
+|------|--------|-------------------|
+| [README.md](README.md) | Active | All agents |
+| [authentication.md](authentication.md) | Active | Architect, Tech Lead, Security Auditor |
+| [authorization.md](authorization.md) | Active | Architect, Tech Lead, Security Auditor |
+| [api-design.md](api-design.md) | Active | Architect, Tech Lead |
+| [caching.md](caching.md) | Active | Architect, Tech Lead |
+| [forms.md](forms.md) | Active | Architect, UX, UI |
+| [file-uploads.md](file-uploads.md) | Active | Architect, Tech Lead, Security Auditor |
+| [real-time.md](real-time.md) | Active | Architect, Tech Lead |
+| [search.md](search.md) | Active | Architect, Tech Lead |
+| [payments.md](payments.md) | Active | Architect, Tech Lead, Security Auditor |
+| [multi-tenancy.md](multi-tenancy.md) | Active | Architect, Tech Lead, Security Auditor |
+
+All pattern files are fully specified. No placeholders remain.

@@ -1,19 +1,24 @@
-# DevOS Update — knowledge/classification/
+# KNOWLEDGE
 
-**Date:** 2026-08-05  
-**Batch:** knowledge/classification/ (architecture-selection, project-complexity, rendering-strategies, website-types)
+**Purpose:** Reusable, versioned engineering knowledge that agents consult.
 
-## What changed
+Knowledge is discovered by navigation, not by repetition.  
+Modules reference one another exclusively through Markdown links.
 
-All placeholder files under `knowledge/classification/` have been replaced with fully specified, agent-ready decision criteria:
+## Sub-domains
 
-- **website-types.md** — 8 primary product/site types with strong/weak signals and decision table
-- **project-complexity.md** — S/M/L/XL bands + five driver dimensions + decision rules
-- **rendering-strategies.md** — SSG, SSR, CSR, Hybrid, Edge with selection criteria
-- **architecture-selection.md** — Architecture families (Simple/Modular Monolith, Multi-Service, Jamstack, Event-Driven, Mobile) aligned to type + complexity
-- **README.md** & **index.md** — Updated to Active status with usage rules for agents
+- **classification/** — Project type, complexity, rendering strategy, architecture family  
+- **blueprints/** — Starting points for landing pages, SaaS, e-commerce, etc.  
+- **patterns/** — Authentication, API design, caching, payments, multi-tenancy, etc.  
+- **design/** — Storytelling, composition, typography, motion, accessibility  
+- **technologies/** — Frontend, backend, databases, deployment, observability, security tooling  
+- **standards/** — Naming, documentation, testing conventions  
 
-## How to apply
+## Maintenance
 
-Copy the `knowledge/classification/` folder into your DevOS repository, overwriting the previous placeholders.
+Every knowledge file should eventually declare:
 
+- Confidence level  
+- Last review date  
+
+Placeholders are acceptable until content is written with high confidence.
