@@ -18,7 +18,7 @@ A blueprint is selected after classification (see knowledge/classification/websi
 |-----------|--------|-------------|
 | [saas.md](saas.md) | Active | Multi-user products with accounts, tenancy, and usually billing |
 | [landing-page.md](landing-page.md) | Active | Conversion / marketing focused sites |
-| ecommerce.md | Placeholder | Catalogue + cart + checkout |
+| [ecommerce.md](ecommerce.md) | Active | Catalogue + cart + checkout + fulfilment |
 | portfolio.md | Placeholder | Showcase / brochure |
 | documentation-site.md | Placeholder | Docs / knowledge bases |
 | dashboard.md | Placeholder | Authenticated internal tools |
