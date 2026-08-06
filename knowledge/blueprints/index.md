@@ -9,9 +9,9 @@ Primary consumer: Architect agent (when producing the Architecture Blueprint).
 | [saas.md](saas.md) | **Active** | Multi-user products delivered as a service (tenancy, billing, identity, etc.) |
 | [landing-page.md](landing-page.md) | **Active** | Conversion / marketing focused sites |
 | [ecommerce.md](ecommerce.md) | **Active** | Catalogue, cart, checkout, fulfilment |
+| [dashboard.md](dashboard.md) | **Active** | Authenticated internal / operational tools |
 | [portfolio.md](portfolio.md) | Placeholder | Showcase / brochure sites |
 | [documentation-site.md](documentation-site.md) | Placeholder | Docs, knowledge bases, content sites |
-| [dashboard.md](dashboard.md) | Placeholder | Authenticated internal / operational tools |
 | [mobile-app.md](mobile-app.md) | Placeholder | Native or hybrid mobile-first products |
 
 **Status of this index:** Active  
