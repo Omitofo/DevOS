@@ -1,12 +1,20 @@
 # knowledge/blueprints/ — Index
 
-| File | Status |
-|------|--------|
-| [README.md](README.md) | Placeholder |
-| [landing-page.md](landing-page.md) | Placeholder |
-| [saas.md](saas.md) | Placeholder |
-| [ecommerce.md](ecommerce.md) | Placeholder |
-| [portfolio.md](portfolio.md) | Placeholder |
-| [documentation-site.md](documentation-site.md) | Placeholder |
-| [dashboard.md](dashboard.md) | Placeholder |
-| [mobile-app.md](mobile-app.md) | Placeholder |
+Opinionated starting points for common product categories.  
+Primary consumer: Architect agent (when producing the Architecture Blueprint).
+
+| File | Status | Notes |
+|------|--------|-------|
+| [README.md](README.md) | Active | Domain overview & usage rules |
+| [saas.md](saas.md) | **Active** | Multi-user products delivered as a service (tenancy, billing, identity, etc.) |
+| [landing-page.md](landing-page.md) | **Active** | Conversion / marketing focused sites |
+| [ecommerce.md](ecommerce.md) | Placeholder | Catalogue, cart, checkout, fulfilment |
+| [portfolio.md](portfolio.md) | Placeholder | Showcase / brochure sites |
+| [documentation-site.md](documentation-site.md) | Placeholder | Docs, knowledge bases, content sites |
+| [dashboard.md](dashboard.md) | Placeholder | Authenticated internal / operational tools |
+| [mobile-app.md](mobile-app.md) | Placeholder | Native or hybrid mobile-first products |
+
+**Status of this index:** Active  
+**Last review:** 2026-08-06
+
+**Usage rule:** Agents link to the relevant blueprint; they never copy its content into project folders. Deviations from a blueprint’s recommendations must be explicit and justified in the Architecture Blueprint.
