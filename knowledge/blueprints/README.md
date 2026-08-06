@@ -20,8 +20,8 @@ A blueprint is selected after classification (see knowledge/classification/websi
 | [landing-page.md](landing-page.md) | Active | Conversion / marketing focused sites |
 | [ecommerce.md](ecommerce.md) | Active | Catalogue + cart + checkout + fulfilment |
 | [dashboard.md](dashboard.md) | Active | Authenticated internal / operational tools |
+| [documentation-site.md](documentation-site.md) | Active | Docs / knowledge bases / content sites |
 | portfolio.md | Placeholder | Showcase / brochure |
-| documentation-site.md | Placeholder | Docs / knowledge bases |
 | mobile-app.md | Placeholder | Native / hybrid mobile-first |
 
 ## Expected Relationships
