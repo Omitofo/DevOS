@@ -1,6 +1,6 @@
 # knowledge/blueprints/
 
-**Status:** Active (incremental)  
+**Status:** Active  
 **Last review:** 2026-08-06
 
 Reusable, opinionated starting architectures for common product categories.  
@@ -22,7 +22,7 @@ A blueprint is selected after classification (see knowledge/classification/websi
 | [dashboard.md](dashboard.md) | Active | Authenticated internal / operational tools |
 | [documentation-site.md](documentation-site.md) | Active | Docs / knowledge bases / content sites |
 | [portfolio.md](portfolio.md) | Active | Showcase / brochure / personal-brand / agency sites |
-| mobile-app.md | Placeholder | Native / hybrid mobile-first |
+| [mobile-app.md](mobile-app.md) | Active | Native / hybrid mobile-first products |
 
 ## Expected Relationships
 

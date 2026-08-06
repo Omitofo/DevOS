@@ -12,7 +12,7 @@ Primary consumer: Architect agent (when producing the Architecture Blueprint).
 | [dashboard.md](dashboard.md) | **Active** | Authenticated internal / operational tools |
 | [documentation-site.md](documentation-site.md) | **Active** | Docs, knowledge bases, content sites |
 | [portfolio.md](portfolio.md) | **Active** | Showcase / brochure / personal-brand / agency sites |
-| [mobile-app.md](mobile-app.md) | Placeholder | Native or hybrid mobile-first products |
+| [mobile-app.md](mobile-app.md) | **Active** | Native or hybrid mobile-first products |
 
 **Status of this index:** Active  
 **Last review:** 2026-08-06
