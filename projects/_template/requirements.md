@@ -1,5 +1,55 @@
-# requirements.md
+# Requirements
 
-**Status:** Placeholder — will be written by the Analyst agent.
+**Version:** 0.1  
+**Status:** draft  
+**Upstream:** brief.md, intake.md  
+**Assumptions:** none  
+**Open questions:** (list)  
+**Last updated:** YYYY-MM-DD  
+**Authoring agent / human:** Analyst
 
-Copy this entire `_template` folder to start a new project.
+---
+
+> **Producing agent:** Analyst  
+> **Template authority:** runtime/templates/requirements.md  
+> **Rules:** Every requirement must be testable and traceable.  
+> Prefer “Must / Should / Could”. Never invent scope.
+
+---
+
+## 1. Functional Requirements
+
+| ID    | Statement | Priority | Source          | Testability note |
+|-------|-----------|----------|-----------------|------------------|
+| FR-01 | …         | Must     | brief.md §2     | …                |
+
+## 2. Non-Functional Requirements
+
+| ID     | Category    | Statement | Priority | Source | Measurement |
+|--------|-------------|-----------|----------|--------|-------------|
+| NFR-01 | Performance | …         | Must     | …      | …           |
+
+## 3. Constraints (inherited)
+
+(Re-state constraints that act as hard requirements)
+
+## 4. Out of Scope
+
+(Confirm non-goals)
+
+## 5. Open Questions
+
+| ID  | Question | Blocking? | Related requirement |
+|-----|----------|-----------|---------------------|
+| Q1  | …        | yes/no    | …                   |
+
+---
+
+## Traceability Matrix
+
+Every FR/NFR → upstream source.
+
+| Requirement ID | Upstream Source(s)     | Notes |
+|----------------|------------------------|-------|
+| FR-01          | brief.md §2, intake.md | …     |
+| NFR-01         | …                      | …     |
