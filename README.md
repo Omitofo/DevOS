@@ -10,7 +10,7 @@ Its sole product is the **Master Design Plan**.
 ## Quick Start
 
 1. Read [START.md](START.md)
-2. For a new project, prepare an Intake document (see external `INTAKE_TEMPLATE.md`)
+2. For a new project, prepare an Intake document (see external [INTAKE_TEMPLATE.md](https://github.com/Omitofo/devos-bootstrap/blob/master/INTAKE_TEMPLATE.md))
 3. Invoke with the minimal prompt defined in the constitution
 
 ## Repository Structure
@@ -26,7 +26,8 @@ Its sole product is the **Master Design Plan**.
 
 The authoritative source of truth lives **outside** this repository:
 
-`DEVOS_BOOTSTRAP_SPEC.md` (versioned independently)
+→ **[DevOS Bootstrap Spec](https://github.com/Omitofo/devos-bootstrap)**  
+(`DEVOS_BOOTSTRAP_SPEC.md` + `INTAKE_TEMPLATE.md`, versioned independently)
 
 This repository is the living system generated from that constitution.
 

@@ -1,7 +1,7 @@
 # core/ — Index
 
 **Status:** Canonical  
-**Authority:** DEVOS_BOOTSTRAP_SPEC.md
+**Authority:** [DEVOS_BOOTSTRAP_SPEC.md](https://github.com/Omitofo/devos-bootstrap)
 
 Immutable foundation of DevOS.  
 Agents and humans must treat every rule, gate, and lifecycle stage defined here as non-negotiable unless the external constitution is amended.
@@ -20,7 +20,7 @@ Agents and humans must treat every rule, gate, and lifecycle stage defined here 
 Extremely conservative.  
 Any modification requires:
 
-1. An explicit amendment to the external `DEVOS_BOOTSTRAP_SPEC.md`.
+1. An explicit amendment to the external [`DEVOS_BOOTSTRAP_SPEC.md`](https://github.com/Omitofo/devos-bootstrap).
 2. A version bump of the bootstrap specification.
 3. A migration note describing impact on existing projects.
 4. An atomic update of the corresponding CORE files.

@@ -7,8 +7,10 @@ This file is the in-repository pointer to the authoritative constitution of DevO
 
 ## Authoritative Source
 
-`DEVOS_BOOTSTRAP_SPEC.md`  
-(lives **outside** the DevOS repository and is versioned independently)
+**Repository:** [https://github.com/Omitofo/devos-bootstrap](https://github.com/Omitofo/devos-bootstrap)
+
+- [`DEVOS_BOOTSTRAP_SPEC.md`](https://github.com/Omitofo/devos-bootstrap/blob/master/DEVOS_BOOTSTRAP_SPEC.md)  
+- [`INTAKE_TEMPLATE.md`](https://github.com/Omitofo/devos-bootstrap/blob/master/INTAKE_TEMPLATE.md)
 
 The bootstrap specification is the single source of truth.  
 Any capable language model, given only that document and a blank workspace, must be able to reconstruct the complete DevOS repository skeleton, philosophy, architecture, agents, quality gates, and operational rules.

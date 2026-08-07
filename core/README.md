@@ -1,7 +1,7 @@
 # CORE
 
 **Status:** Canonical  
-**Authority:** DEVOS_BOOTSTRAP_SPEC.md (external constitution)  
+**Authority:** [DEVOS_BOOTSTRAP_SPEC.md](https://github.com/Omitofo/devos-bootstrap) (external constitution)  
 **Change policy:** Extremely conservative — requires explicit constitutional amendment and a migration note
 
 ## Purpose
@@ -39,7 +39,7 @@ CORE exists so that:
 - **Owner:** The constitution itself.
 - **Who may propose a change:** Only the human owner of the bootstrap specification.
 - **How a change is made:**
-  1. Amend the external `DEVOS_BOOTSTRAP_SPEC.md` and increment its version.
+  1. Amend the external [`DEVOS_BOOTSTRAP_SPEC.md`](https://github.com/Omitofo/devos-bootstrap) and increment its version.
   2. Record a migration note describing the exact impact on existing projects and agents.
   3. Update the corresponding CORE files in a single, atomic commit.
   4. Never edit CORE files in isolation from the bootstrap specification.
